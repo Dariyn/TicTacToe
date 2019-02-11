@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=game
+comment1.params=input\ player
+comment1.target=game(java.util.Scanner,\ Board)
+comment2.params=
+comment2.target=boolean\ logic()
+numComments=3

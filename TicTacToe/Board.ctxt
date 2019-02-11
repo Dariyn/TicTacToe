@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ setTile()
+comment3.params=
+comment3.target=void\ printBoard()
+comment4.params=x\ y\ side
+comment4.target=boolean\ checkTile(int,\ int,\ char)
+comment5.params=side
+comment5.target=boolean\ streak(char)
+numComments=6

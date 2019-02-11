@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=pvp
+comment1.params=input\ player
+comment1.target=pvp(java.util.Scanner,\ Board)
+comment2.params=
+comment2.target=int[]\ getTile()
+comment3.params=turns
+comment3.target=int\ TileP1(int)
+comment4.params=turns
+comment4.target=int\ TileP2(int)
+numComments=5
